@@ -8,6 +8,6 @@ public class VersionController {
 
     @RequestMapping("/version")
     public String index() {
-        return "Greetings VMware Roadshow!";
+        return "Greetings VMware2 Roadshow!";
     }
 }
